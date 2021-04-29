@@ -1,5 +1,5 @@
 # Designing Calculator perform some operation in mathmatical.
-https://github.com/thakur8630/technical-box/blob/main/Screenshot%20(20).png
+![image](https://github.com/thakur8630/technical-box/blob/main/Screenshot%20(20).png)
 <br>
 Calculator image
 <br>
