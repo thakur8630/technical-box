@@ -7,27 +7,19 @@ Calculator image
 <br>
 ![image](https://github.com/thakur8630/technical-box/blob/main/Screenshot%20(21).png)
 <br>
-
 Operation perform, I am entering first number.
-
 <br>
 ![image](https://github.com/thakur8630/technical-box/blob/main/Screenshot%20(22).png)
 <br>
-
 I am entering second number.
-
 <br>
 ![image](https://github.com/thakur8630/technical-box/blob/main/Screenshot%20(23).png)
 <br>
-
 Operation performed
-
 <br>
 ![image](https://github.com/thakur8630/technical-box/blob/main/Screenshot%20(24).png)
 <br>
-
 Other operation performed
-
 <br>
 ![image](https://github.com/thakur8630/technical-box/blob/main/Screenshot%20(25).png)
 
